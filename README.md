@@ -12,3 +12,4 @@ Anything
 - 📫 How to reach me ...
 Twitter : https://twitter.com/d3buggr
 Website : https://d3buggr.dev
+Discord : https://discord.gg/9DduKZMG4B
