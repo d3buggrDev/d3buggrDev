@@ -13,4 +13,5 @@ Anything
 Twitter : https://twitter.com/d3buggr
 Website : https://d3buggr.dev
 Discord : https://discord.gg/9DduKZMG4B
-Twitch  : twitch.tv/d3buggr
+Twitch  : https://twitch.tv/d3buggr
+YouTube : https://www.youtube.com/channel/UCfM35TcnIKO6pKkQlgEAxCg
