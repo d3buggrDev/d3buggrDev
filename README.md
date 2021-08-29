@@ -12,9 +12,6 @@ Anything
 - 📫 How to reach me ...
 Twitter : https://twitter.com/d3buggr
 Website : https://d3buggr.dev
-Discord : https://discord.gg/9DduKZMG4B
 Twitch  : https://twitch.tv/d3buggr
-YouTube : https://www.youtube.com/channel/UCfM35TcnIKO6pKkQlgEAxCg
-
 
 - **HTTPS://D3BUGGR.DEV/** 
